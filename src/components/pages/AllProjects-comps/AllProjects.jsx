@@ -20,20 +20,20 @@ const AllProjects = () => {
     {
       id: 1,
       src: easyshop,
-      demo: "https://easyshop-bydt.netlify.app/",
+      demo: "https://chipper-croquembouche-32e93e.netlify.app/",
       code: "https://github.com/diegotellezc/EasyShop",
     },
     {
       id: 2,
       src: acciovocabulary,
-      demo: "https://diegotellezc.github.io/landing-accio-vocabulary/",
-      code: "https://github.com/diegotellezc/landing-accio-vocabulary",
+      demo: "https://chatapp-frontend-tau-eight.vercel.app/",
+      code: "https://github.com/paritoshrawat/chatapp_frontend",
     },
     {
       id: 3,
       src: dogsblog,
-      demo: "https://dogs-blog-diegotellezdev.netlify.app/",
-      code: "https://github.com/diegotellezc/dogsBlog",
+      demo: "https://currencyconverter-ashen.vercel.app/",
+      code: "https://github.com/paritoshrawat/currencyconverter",
     },
     // {
     //     id: 4,

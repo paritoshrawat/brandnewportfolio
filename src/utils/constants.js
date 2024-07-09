@@ -2,7 +2,7 @@ const projects = [
   {
     id: 1,
     title: "Movie App",
-    description: "Ecommerce created with React JS and Tailwind CSS",
+    description: "Movie App created with React JS and Tailwind CSS",
     technologies: "Javascript, React, Redux, Tailwind CSS",
     src: "/images/projectsImages/movie.png",
     demo: "https://chipper-croquembouche-32e93e.netlify.app/",
@@ -21,8 +21,7 @@ const projects = [
   {
     id: 3,
     title: "currency Converter",
-    description:
-      "DogsBlog is a page for dog lovers where you can find some articles with relevant information about the care of these beautiful animals.",
+    description:"currency converter This tool is essential for travelers, businesses, and anyone dealing with multiple currencies, providing accurate and real-time conversion data to make informed financial decisions. ",
     technologies: "Javascript, HTML5, CSS3 React js , tailwind css",
     src: "/images/projectsImages/currency.png",
     demo: "https://currencyconverter-ashen.vercel.app/",
